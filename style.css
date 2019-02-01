@@ -1,0 +1,31 @@
+/*** left sidebar ***/
+h2 {
+    color: #211103; 
+    font-size: 1.5em
+}
+.course{
+    color: #3D1308;
+}
+body {
+    background-color: #F8E5EE;
+}    
+#left_col {
+    background-color: rgba(123, 13, 30, 0.56);
+    text-align: center;
+}
+h5 {
+    font-size: 1em;
+    color: rgba(255, 221, 237, 0.54);
+}
+.profpic {
+    border-radius: 20%
+}
+
+/*** right sidebar ***/
+h6{
+    color: #F8E5EE;
+    background-color: rgba(123, 13, 30, 0.56);
+}
+h2 {
+    color: #3D1308;
+}
