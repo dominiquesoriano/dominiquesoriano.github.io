@@ -1,0 +1,45 @@
+.course{
+    color: #3D1308;
+}
+body {
+    background-color: #F8E5EE;
+    background-image: url("bg.jpg");
+    text-align: center;
+    font-size: 1em;
+    font-family: monospace
+}    
+#left_col {
+    background-color: rgba(190, 73, 91, 0.45);
+    text-align: center;
+}
+h5 {
+    font-size: 1.5em;
+    font-family: serif;
+    color: rgba(255, 221, 237, 0.54);
+}
+.profpic {
+    border-radius: 20%;
+    height: 300px;
+}
+.otherpic {
+    border-radius: 20%;
+    height: 300px;
+}
+.ytpic {
+    height: 85px;
+}
+
+h6 {
+   background-color: rgba(123, 13, 30, 0.56);
+}
+#right_col {
+    background-color: rgba(190, 73, 91, 0.45);
+    text-align: center;
+}
+h3 {
+    font-family:serif
+}
+
+h4 {
+    font-family: serif
+}
